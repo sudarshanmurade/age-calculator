@@ -24,13 +24,11 @@ A simple and clean Age Calculator built using HTML, CSS, and JavaScript.
 
 ## 📸 Preview
 
-## 📸 Preview
-
 ![Age Calculator Screenshot](screenshot.png)
 
 ## 🌐 Live Demo
 
-(Add your GitHub Pages link here after deploying)
+coming soon...
 
 ## 📂 How to Run
 
